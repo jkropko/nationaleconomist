@@ -1,3 +1,22 @@
+python pdfparse.py mar1889.pdf -o mar1889text.txt
+python pdfparse.py apr1889.pdf -o apr1889text.txt
+python pdfparse.py may1889.pdf -o may1889text.txt
+python pdfparse.py june1889.pdf -o june1889text.txt
+python pdfparse.py july1889.pdf -o july1889text.txt
+python pdfparse.py aug1889.pdf -o aug1889text.txt
+python pdfparse.py sept1889.pdf -o sept1889text.txt
+python pdfparse.py oct1889.pdf -o oct1889text.txt
+python pdfparse.py nov1889.pdf -o nov1889text.txt
+python pdfparse.py dec1889.pdf -o dec1889text.txt
+python pdfparse.py jan1890.pdf -o july1890text.txt
+python pdfparse.py feb1890.pdf -o feb1890text.txt
+python pdfparse.py mar1890.pdf -o mar1890text.txt
+python pdfparse.py apr1890.pdf -o apr1890text.txt
+python pdfparse.py may1890.pdf -o may1890text.txt
+python pdfparse.py june1890.pdf -o june1890text.txt
+python pdfparse.py july1890.pdf -o july1890text.txt
+python pdfparse.py aug1890.pdf -o aug1890text.txt
+
 python pdfparse.py apr1892.pdf -o apr1892text.txt
 python pdfparse.py aug1892.pdf -o aug1892text.txt
 python pdfparse.py dec1892.pdf -o dec1892text.txt
