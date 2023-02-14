@@ -36,3 +36,21 @@ python pdfparse.py nov1891.pdf -o nov1891text.txt
 python pdfparse.py oct1892.pdf -o oct1892text.txt
 python pdfparse.py oct1891.pdf -o oct1891text.txt
 python pdfparse.py sept1892.pdf -o sept1892text.txt
+
+python pdfparse.py dds-45020.pdf -o sept1890text.txt
+python pdfparse.py dds-45022.pdf -o supplementtext.txt
+python pdfparse.py dds-45023.pdf -o almanac1890text.txt
+
+python pdfparse.py dds-45029.pdf -o sept1890text.txt
+python pdfparse.py dds-45030.pdf -o dec1890text.txt
+python pdfparse.py dds-45036.pdf -o jan1891text.txt
+python pdfparse.py dds-45037.pdf -o feb1891text.txt
+python pdfparse.py dds-45038.pdf -o mar1891text.txt
+
+python pdfparse.py dds-45039.pdf -o april1891text.txt
+python pdfparse.py dds-45040.pdf -o may1891text.txt
+python pdfparse.py dds-45041.pdf -o june1891text.txt
+python pdfparse.py dds-45042.pdf -o july1891text.txt
+python pdfparse.py dds-45043.pdf -o aug1891text.txt
+python pdfparse.py dds-45044.pdf -o sept1891text.txt
+python pdfparse.py dds-45045.pdf -o oct1891text.txt
