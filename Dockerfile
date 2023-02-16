@@ -14,6 +14,8 @@ apt-get install -y nodejs
 RUN apt-get install tesseract-ocr -y
 RUN apt-get install libtesseract-dev -y
 RUN apt-get install libgl1 -y
+RUN apt install sudo
+RUN sudo apt install nano
 
 WORKDIR /nationaleconomist
 
