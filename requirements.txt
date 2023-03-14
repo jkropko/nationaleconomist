@@ -3,6 +3,6 @@ jupyterlab==3.5.2
 Filetype==1.2.0
 pandas==1.5.2
 Pillow==9.4.0
-PyMuPDF==1.21.1
+PyMuPDF==1.18.14
 pytesseract==0.3.10
 opencv-python==4.7.0.68
